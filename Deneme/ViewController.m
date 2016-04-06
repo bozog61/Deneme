@@ -21,6 +21,7 @@
     NSLog(@"2");
     NSLog(@"3");
     NSLog(@"levent");
+    NSLog(@"ali");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
