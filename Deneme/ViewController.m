@@ -20,6 +20,7 @@
     NSLog(@"ddd");
     NSLog(@"2");
     NSLog(@"3");
+    NSLog(@"levent");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
